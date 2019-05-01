@@ -32,13 +32,10 @@ const Home = ({ id }) => (
 				<iframe
 					src="https://ipeye.ru/ipeye_service/api/iframe.php?iframe_player=1&dev=517fe9dbf4b244aaa0330cf582de9932&autoplay=0&archive=1"
 					width="350" height="210" frameBorder="0" seamless="seamless" title="video" allowFullScreen>Ваш браузер не
-					поддерживает фреймы!
+					подерживает фреймы!
 				</iframe>
 			</Div>
 		</Group>
-
-
-
 		<Group>
 			<Div>
 				<Button size="xl" level="commerce" component="a" target="_blank"	href={"https://vk.com/coin#x438360166_100000000_2000000000_1"}>
